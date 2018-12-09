@@ -89,4 +89,5 @@ addTwett("Affiu", "06/03/1995", "ciao poveri");
 console.log(twetts);  **funziona**
 console.log(findTwettByPost("belli"));  **funziona**
 console.log(findTweetByAuthor("Ciccio"));  **funziona**
+hhhhhhoooooou ciao!!
 */
